@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">Papirus Icon Pack</string>
+
+    <string name="theme_title">Papirus Icon Pack</string>
+    <string name="theme_name">Papirus Icon Pack</string>
+
+    <string name="theme_author">Papirus Development Team</string>
+    <string name="developer_name">Papirus Development Team</string>
+    <string name="developerName">Papirus Development Team</string>
+    <string name="authorName">Papirus Development Team</string>
+
+    <string name="authorLink">https://github.com/PapirusDevelopmentTeam</string>
+    <string name="developer_link">https://github.com/PapirusDevelopmentTeam</string>
+
+    <string name="theme_description">Popular Linux icon theme now on Android</string>
+    <string name="theme_info">Popular Linux icon theme now on Android</string>
+    <string name="theme_ad_msg">Popular Linux icon theme now on Android</string>
+
+    <string name="theme_feature">feature</string>
+
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <string name="iconpack">io.github.PapirusDevelopmentTeam.papirus_icons</string>
+
+</resources>

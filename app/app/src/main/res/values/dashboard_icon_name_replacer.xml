@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Icon name replacer
+    * Format: <item>Word that you want to replace + ,(comma) + Word that you want to replace with</item>
+    *
+    * NOTE: Adding so many conditions may reduce dashboard performance, loading time will be increased
+    * NOTE: By default underscore "_" will be replaced with space " ", you don't need to use icon name replacer -->
+
+    <!-- Enable or disable icon name replacer
+    * Enable -> true
+    * Disable -> false -->
+    <bool name="enable_icon_name_replacer">true</bool>
+
+    <string-array name="icon_name_replacer">
+        <!-- Word "app_" will be replaced with "" -->
+        <!-- Word "icon_" will be replaced with "app_" -->
+        <item>apps_,</item>
+        <item>games_,</item>
+        <item>system_,</item>
+    </string-array>
+
+</resources>
